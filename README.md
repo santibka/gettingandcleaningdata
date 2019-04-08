@@ -1,4 +1,4 @@
-##Getting and Cleaning Data Peer-graded Assignment
+## Getting and Cleaning Data Peer-graded Assignment
 
 The source data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
