@@ -3,11 +3,11 @@
 ### Data set description
 Tidy data set with the average of each variable for each activity and each subject.
 
-Number of observations	80
-Number of variables	68
+- Number of observations	80
+- Number of variables	68
 
 ### Variable list
-**Variable | Class | Description**
+Variable | Class | Description
 --- | --- | ---
 activityid | (int) | Id of the activity
 subjectid | (int) | Id of the subject
